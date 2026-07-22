@@ -1,32 +1,63 @@
 [
-    {
-        "id": 1,
-        "name": "Product 1",
-        "description": "Description for Product 1",
-        "price": 10.99
-    },
-    {
-        "id": 2,
-        "name": "Product 2",
-        "description": "Description for Product 2",
-        "price": 19.99
-    },
-    {
-        "id": 3,
-        "name": "Product 3",
-        "description": "Description for Product 3",
-        "price": 5.99
-    },
-    {
-        "id": 4,
-        "name": "Product 4",
-        "description": "Description for Product 4",
-        "price": 15.49
-    },
-    {
-        "id": 5,
-        "name": "Product 5",
-        "description": "Description for Product 5",
-        "price": 8.75
-    }
+  {
+    "id": 1,
+    "name": "Apple AirPods Pro (2nd Gen)",
+    "description": "Wireless noise-cancelling earbuds with Adaptive Audio, USB-C charging case, and up to 30 hours of battery life.",
+    "price": 249.99
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S25",
+    "description": "Flagship Android smartphone featuring a powerful processor, AMOLED display, and advanced AI camera system.",
+    "price": 899.99
+  },
+  {
+    "id": 3,
+    "name": "Sony WH-1000XM5",
+    "description": "Premium over-ear wireless headphones with industry-leading noise cancellation and exceptional sound quality.",
+    "price": 399.99
+  },
+  {
+    "id": 4,
+    "name": "Logitech MX Master 3S",
+    "description": "Ergonomic wireless mouse designed for productivity with ultra-fast scrolling and customizable buttons.",
+    "price": 99.99
+  },
+  {
+    "id": 5,
+    "name": "Apple MacBook Air M3",
+    "description": "Lightweight laptop powered by the Apple M3 chip with a stunning Liquid Retina display and all-day battery life.",
+    "price": 1099.99
+  },
+  {
+    "id": 6,
+    "name": "Anker PowerCore 20000",
+    "description": "High-capacity portable power bank with fast charging support for smartphones, tablets, and other USB devices.",
+    "price": 49.99
+  },
+  {
+    "id": 7,
+    "name": "Nike Air Force 1 '07",
+    "description": "Classic low-top sneakers with durable leather construction and timeless streetwear style.",
+    "price": 115.00
+  },
+  {
+    "id": 8,
+    "name": "Kindle Paperwhite",
+    "description": "Waterproof e-reader with a glare-free display, adjustable warm light, and weeks of battery life.",
+    "price": 159.99
+  },
+  {
+    "id": 9,
+    "name": "JBL Flip 6",
+    "description": "Portable Bluetooth speaker with powerful stereo sound, IP67 waterproof rating, and up to 12 hours of playtime.",
+    "price": 129.95
+  },
+  {
+    "id": 10,
+    "name": "Dell UltraSharp U2723QE",
+    "description": "27-inch 4K USB-C monitor with accurate color reproduction, ergonomic stand, and built-in USB hub.",
+    "price": 599.99
+  }
+
 ]
